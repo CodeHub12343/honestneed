@@ -1,0 +1,22 @@
+/* Additional global styles - most styles are handled by styled-components */
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Better text rendering */
+body {
+  text-rendering: optimizeLegibility;
+}
+
+/* Remove default button styles */
+button {
+  font-family: inherit;
+}
+
+/* Image optimization */
+img {
+  max-width: 100%;
+  height: auto;
+}
